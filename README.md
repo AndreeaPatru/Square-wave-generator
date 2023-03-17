@@ -5,12 +5,12 @@
 
 - N=13 
 
-- Frecvența de oscilație, fo, reglabilă în intervalul: o 2·N ÷ 4·N [kHz];
-- Factor de umplere: o 0.5;
-- Sarcina la ieșire, RL: o N [kΩ];
-- Valoarea (vârf la vârf) a oscilației la ieșire, Vo, reglabilă în intervalul: o 0 ÷ N/4 [V];
+- Frecvența de oscilație, fo, reglabilă în intervalul: 2·N ÷ 4·N [kHz];
+- Factor de umplere: 0.5;
+- Sarcina la ieșire, RL: N[kΩ];
+- Valoarea (vârf la vârf) a oscilației la ieșire, Vo, reglabilă în intervalul: 0 ÷ N/4 [V];
 - Semnalul la ieșire nu are componentă continuă;
-- Domeniul temperaturilor de funcționare: o 00 - 700 grade Celsius (verificabil prin testare în temperatură);
+- Domeniul temperaturilor de funcționare: 00 - 700 grade Celsius (verificabil prin testare în temperatură);
 
 N este numărul de ordine din lista grupei;
 - Dimensiunile PCB: 40mm x 40mm;
